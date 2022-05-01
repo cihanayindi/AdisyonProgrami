@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow1</class>
+ <widget class="QMainWindow" name="MainWindow1">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1210</width>
+    <height>890</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Masalar</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../Çeşitli dosyalar/fotograf/634601_python_512x512.png</normaloff>../Çeşitli dosyalar/fotograf/634601_python_512x512.png</iconset>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>10</y>
+      <width>1171</width>
+      <height>761</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="title">
+     <string>Masalar</string>
+    </property>
+    <widget class="QPushButton" name="btnMasa1">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>30</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 1</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa2">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>30</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 2</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa3">
+     <property name="geometry">
+      <rect>
+       <x>470</x>
+       <y>30</y>
+       <width>231</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 3</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa4">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>30</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 4</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa5">
+     <property name="geometry">
+      <rect>
+       <x>940</x>
+       <y>30</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 5</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa10">
+     <property name="geometry">
+      <rect>
+       <x>940</x>
+       <y>150</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 10</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa6">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>150</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 6</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa7">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>150</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 7</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa8">
+     <property name="geometry">
+      <rect>
+       <x>470</x>
+       <y>150</y>
+       <width>231</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 8</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa9">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>150</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 9</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa16">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>390</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 16</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa19">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>390</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 19</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa11">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>270</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 11</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa12">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>270</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 12</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa20">
+     <property name="geometry">
+      <rect>
+       <x>940</x>
+       <y>390</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 20</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa15">
+     <property name="geometry">
+      <rect>
+       <x>940</x>
+       <y>270</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 15</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa13">
+     <property name="geometry">
+      <rect>
+       <x>470</x>
+       <y>270</y>
+       <width>231</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 13</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa14">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>270</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 14</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa17">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>390</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 17</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa18">
+     <property name="geometry">
+      <rect>
+       <x>470</x>
+       <y>390</y>
+       <width>231</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 18</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa26">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>630</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 26</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa27">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>630</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 27</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa23">
+     <property name="geometry">
+      <rect>
+       <x>470</x>
+       <y>510</y>
+       <width>231</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 23</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa25">
+     <property name="geometry">
+      <rect>
+       <x>940</x>
+       <y>510</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 25</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa22">
+     <property name="geometry">
+      <rect>
+       <x>240</x>
+       <y>510</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 22</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa29">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>630</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 29</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa28">
+     <property name="geometry">
+      <rect>
+       <x>470</x>
+       <y>630</y>
+       <width>231</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 28</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa30">
+     <property name="geometry">
+      <rect>
+       <x>940</x>
+       <y>630</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 30</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa24">
+     <property name="geometry">
+      <rect>
+       <x>710</x>
+       <y>510</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 24</string>
+     </property>
+    </widget>
+    <widget class="QPushButton" name="btnMasa21">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>510</y>
+       <width>220</width>
+       <height>100</height>
+      </rect>
+     </property>
+     <property name="font">
+      <font>
+       <pointsize>15</pointsize>
+      </font>
+     </property>
+     <property name="text">
+      <string>MASA 21</string>
+     </property>
+    </widget>
+   </widget>
+   <widget class="QPushButton" name="btnGunuKapa">
+    <property name="geometry">
+     <rect>
+      <x>960</x>
+      <y>780</y>
+      <width>221</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>15</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>GÜNÜ KAPAT</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lblTarih">
+    <property name="geometry">
+     <rect>
+      <x>30</x>
+      <y>780</y>
+      <width>141</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>15</pointsize>
+      <weight>50</weight>
+      <italic>true</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>10/12/2000</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="lblKasaGorevlisi">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>780</y>
+      <width>301</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>15</pointsize>
+      <weight>50</weight>
+      <italic>true</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>Kasa Görevlisi: x</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1210</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuYard_m">
+    <property name="title">
+     <string>Yardım</string>
+    </property>
+    <widget class="QMenu" name="menu_leti_im">
+     <property name="title">
+      <string>İletişim</string>
+     </property>
+     <addaction name="actionCihan_ayindi_hotmail_com"/>
+    </widget>
+    <addaction name="menu_leti_im"/>
+   </widget>
+   <addaction name="menuYard_m"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionCihan_ayindi_hotmail_com">
+   <property name="text">
+    <string>cihan_ayindi@hotmail.com</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
